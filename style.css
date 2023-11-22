@@ -1,0 +1,165 @@
+body{
+
+    font-family: 'Rufina', serif;
+    margin: 0px;
+}
+
+section{
+
+    height: 1000px;
+}
+
+.top-banner{
+
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+
+.name{
+
+    color: hotpink;
+    font-size: 30px;
+}
+
+.about-me{
+
+    color: dimgray;
+    font-size: 20px;
+}
+
+.half-width{
+
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.button{
+
+    text-decoration: none;
+    background-image: linear-gradient(90deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    line-height: 40px;
+
+}
+
+.half-width img{
+
+    width: 420px;
+    
+    
+    
+}
+
+.middle-area{
+
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+
+}.secondary{
+
+    margin-top: 190px;
+
+}
+
+.bio-paragraph{
+
+    color: dimgray;
+    font-size: 20px;
+}
+
+.contact-me{
+
+    text-decoration: none;
+    background-image: linear-gradient(90deg, purple, blueviolet);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    line-height: 40px;
+}
+
+.bottom-area{
+
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.latest-paragraph{
+
+    text-align: center;
+    font-size: 25px;
+}
+
+.bottom-bg{
+
+    margin-left: 110px;
+}
+
+
+.bottom-bg img{
+
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin: 30px;
+    
+    
+}
+
+.footer-area{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+
+.footer{
+
+    text-align: center;
+    line-height: 40px;   
+}
+
+.footer-paragraph{
+
+    width: 613px;
+    text-align: center;
+    margin-left: 635px;
+    color: dimgray;
+    font-size: 15px;
+}
+
+.footer-button{
+
+    padding: 20px 40px;
+}
+
+.footer-message{
+
+    text-align: center;
+    line-height: 10px;
+    margin-top: 40px;
+    background-image: linear-gradient(190deg, lightsalmon, tomato);
+    padding-top:  10px;
+    padding-bottom: 30px;
+    height: 60px;
+    font-size: 15px;
+    width: 400px;
+    margin-left: 760px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.footer-text{
+
+    font-size: 15px;
+    color: dimgray;
+    text-align: center;
+    margin-top: 100px;
+}
